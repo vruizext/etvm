@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID: -//ScheduleOnce//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTEND:20150225T150000
+DTSTART:20150225T143000
+DESCRIPTION:Attendee: Victor Ruiz (vruizext@gmail.com)\nSubject: Toptal application\nBooking page: PetroAguilar-Screening\nSkype ID: vruizext\n\nCustomer's cancel/reschedule link: https://secure.scheduleonce.com/PetroAguilar-Screening&update=MzEzMzMyNgqualqual\n
+LOCATION:This is a virtual meeting
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Toptal application
+TRANSP:OPAQUE
+UID:BFE40AAD-D59A-4C1E-BC2C-32718AC489EE
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
