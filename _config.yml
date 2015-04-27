@@ -1,7 +1,7 @@
 name: 'ein_teil_von_mir'
-url: 
+baseurl: /etvm
+url:
 description: '["data mining", "R", "machine learning", "python", "and more ..."]'
-
 permalink: /:year/:month/:day/:title/
 paginate: 10
 highlighter: 'pygments'
