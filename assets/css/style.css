@@ -60,8 +60,8 @@ a:hover {
 	color: #000000;
 }
 
-p { 
-    margin-bottom: 15px; 
+p {
+    margin-bottom: 15px;
     color: #B3D1F0;
 }
 
@@ -152,7 +152,7 @@ h3 {
 }
 
 #content {
-	width: 500px;
+	width: 600px;
 	margin: 0 auto;
 }
 
@@ -291,7 +291,7 @@ img.center {
   text-transform: none;
   line-height: 1.7;
 }
- 
+
 .icon-sun:before { content: '\e801'; }
 .icon-anchor:before { content: '\e800'; }
 .icon-anchor {

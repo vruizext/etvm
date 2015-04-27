@@ -2,12 +2,12 @@
 layout: post
 title:  'print "Hello World!"'
 date:   2015-04-28
-categories: python
+categories: Berlin
 ---
 
 Hello World!
 
-I'm Victor and this is my second blog post ever, the first in this new project, which I've built using [Jekyll](http://jekyllrb.com/) together [Github Pages](http://pages.github.com/) as blog engine. So far I think it's a great tool. I spent only a few hours installing it on my laptop and customizing the [Solar Theme](http://mattvh.github.io/solar-theme-jekyll/), et voilà! I have finally a blog engine which fits to my requirements and the best of all, open source software, no database, no hosting costs and no dealing with the pain of customizing proprietary blog engines.
+I'm Victor and this is my second blog post ever, the first in this new project, which I've built using [Jekyll](http://jekyllrb.com/) together with [Github Pages](http://pages.github.com/) as blog engine. So far I think it's a great tool. I spent only a few hours installing it on my laptop and customizing the [Solar Theme](http://mattvh.github.io/solar-theme-jekyll/), et voilà! I have finally a blog engine which fits quite good to my needs and the best of all, open source software, no database, no hosting costs and no dealing with the pain of customizing proprietary blog engines.
 
 I hope this is the start of a nice and long-lasting blogging story as opposed to my first attempt, which I started about five years ago before moving to Berlin, with the idea of writing about the experiences and adventures I was going to go through in that new stage of my life I was about to start. Sadly, that blog ended having only one post, I could never find simultaneously both enough motivation and free time to write and it simply sunk into oblivion.
 

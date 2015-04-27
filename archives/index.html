@@ -7,7 +7,7 @@ title: Archives
 
 	{% for post in site.posts %}
 		<article class="post">
-            <h1>{{ post.date | date: "%d.%m.%Y" }} <a href="{{ post.url }}">&gt;&gt;&gt; {{ post.title }}</a></h1>
+            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d.%m.%Y" }} &gt;&gt;&gt; {{ post.title }}</a></h1>
 		</article>
 	{% endfor %}
 
