@@ -1,0 +1,22 @@
+
+the first in this new project, which I've built using [Jekyll](http://jekyllrb.com/)
+together with [Github Pages](http://pages.github.com/) as blog engine. So far I think
+it's a great tool, I spent only a few hours installing it on my laptop and customizing
+the [Solar Theme](http://mattvh.github.io/solar-theme-jekyll/), et voilà! I have finally
+a blog engine which fits quite good to my needs and the best of all, open source software,
+no database, no hosting costs and no dealing with the pain of customizing proprietary blog engines.
+
+I am open to constructive critics and feedback, I will try to integrate disqus in the next weeks
+  to provide a way of interaction with my readers. I will keep you informed about.
+
+
+{{ page.date | date: "%d.%m.%Y" }}
+
+I hope this is the start of a nice and long-lasting blogging story as opposed to my last attempt, which I started about five years ago before moving to Berlin. I had the idea of writing about the experiences and adventures I was going to go through in that new stage of my life that was about to start. Sadly, that blog ended having only one post, I could never find simultaneously both enough motivation and free time to write and it simply sunk into oblivion.
+This new blog has nothing to do with my first one as you might notice. Here
+
+
+At the same time I'm traveling through Asia with a group of about thirty people, enrolled in
+[Hacker Paradise](http://www.hackerparadise.org). Most of them are developers or software engineers like me,
+many others are also entrepreneurs creating their own products. It has been an awesome time with them,
+where I had the chance to learn new skills and also sharing mine with others. Definitely my best traveling experience ever.
