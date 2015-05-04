@@ -9,7 +9,7 @@ a, a:visited, a:active {
 }
 
 a:hover {
-	background-color: #073642;
+	/*background-color: #073642;*/
 	border-color: #073642;
 	color: #2aa198;
 }
@@ -25,9 +25,10 @@ h1 a, h1 a:visited, h1 a:active {
 }
 
 h1 a:hover {
-	background-color: #073642;
+	/*background-color: #073642;*/
 	border-color: #073642;
-	color: #0cf20c;
+	/*color: #0cf20c;*/
+	color: #2aa198;
 }
 
 article h1 a.anchor {
@@ -40,7 +41,7 @@ blockquote {
 
 #sidebar a:hover {
 	color: #2aa198;
-	background-color: #073642;
+	/*background-color: #073642;*/
 }
 
 #footer {

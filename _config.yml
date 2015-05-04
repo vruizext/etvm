@@ -1,4 +1,5 @@
 name: 'ein_teil_von_mir'
+title: etvm
 baseurl: /etvm
 url:
 description: '["data mining", "R", "machine learning", "python", "and more ..."]'

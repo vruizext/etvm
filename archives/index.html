@@ -6,9 +6,9 @@ title: Archives
 <div id="blog-archives">
 
 	{% for post in site.posts %}
-		<article class="post">
-            <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%d.%m.%Y" }} &gt;&gt;&gt; {{ post.title }}</a></h1>
-		</article>
+		<!--yarticle class="post"-->
+    		<h1><a href="{{ site.baseurl }}{{ post.url }}">&gt;&gt;&gt; {{ post.title }}</a></h1>
+		<!--/article-->
 	{% endfor %}
 
 </div>
