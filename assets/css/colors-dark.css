@@ -3,16 +3,11 @@ html, body {
 	color: #839496;
 }
 
-a, a:visited, a:active {
+a {
 	color: #0cf20c;
-	border-color: #073642;
+	/*border-color: #073642;*/
 }
 
-a:hover {
-	/*background-color: #073642;*/
-	border-color: #073642;
-	color: #2aa198;
-}
 
 h1, h2, h3 {
 	color: #0cf20c;
@@ -20,29 +15,26 @@ h1, h2, h3 {
     font-weight: 400;
 }
 
-h1 a, h1 a:visited, h1 a:active {
+h1 a {
 	color: #0cf20c;
 }
 
-h1 a:hover {
-	/*background-color: #073642;*/
-	border-color: #073642;
-	/*color: #0cf20c;*/
-	color: #2aa198;
+#header h1 a:hover {
+	text-decoration: none;
 }
 
-article h1 a.anchor {
+/*article h1 a.anchor {
 	color: #2aa198;
-}
+}*/
 
 blockquote {
 	border-color: #0cf20c;
 }
 
-#sidebar a:hover {
-	color: #2aa198;
+/*#sidebar a:hover {*/
+	/*color: #2aa198;*/
 	/*background-color: #073642;*/
-}
+/*}*/
 
 #footer {
 	border-color: #073642;

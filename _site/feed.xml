@@ -21,12 +21,12 @@ no database, no hosting costs and no dealing with the pain of customizing propri
 			</item>
 		
 			<item>
-				<title>Tracking counts along time with Redis</title>
-				<description>
+				<title>Tracking events counts with Python and Redis</title>
+				<description>&lt;p&gt;&lt;a href=&quot;http://redis.io&quot;&gt;Redis&lt;/a&gt; is a noSQL database&lt;/p&gt;
 </description>
 				<pubDate>Wed, 29 Apr 2015 00:00:00 +0700</pubDate>
-				<link>/2015/04/29/redis-time-series-counter/</link>
-				<guid isPermaLink="true">/2015/04/29/redis-time-series-counter/</guid>
+				<link>/2015/04/29/redis-counter/</link>
+				<guid isPermaLink="true">/2015/04/29/redis-counter/</guid>
 			</item>
 		
 			<item>
@@ -47,6 +47,15 @@ no database, no hosting costs and no dealing with the pain of customizing propri
 				<pubDate>Tue, 28 Apr 2015 00:00:00 +0700</pubDate>
 				<link>/2015/04/28/hello-world/</link>
 				<guid isPermaLink="true">/2015/04/28/hello-world/</guid>
+			</item>
+		
+			<item>
+				<title>Pyredis Time Series</title>
+				<description>
+</description>
+				<pubDate>Fri, 03 Apr 2015 00:00:00 +0700</pubDate>
+				<link>/2015/04/03/pyredis-time-series/</link>
+				<guid isPermaLink="true">/2015/04/03/pyredis-time-series/</guid>
 			</item>
 		
 	</channel>
